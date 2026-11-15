@@ -1,0 +1,65 @@
+{
+ "app": "Time Tracking App",
+ "start": "s-01-splash",
+ "screens": [
+  {
+   "slug": "s-01-splash",
+   "name": "01 Splash",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 13,
+   "links": 1
+  },
+  {
+   "slug": "s-02-login",
+   "name": "02 Login",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 44,
+   "links": 2
+  },
+  {
+   "slug": "s-03-landing-page",
+   "name": "03 Landing  page",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 43,
+   "links": 2
+  },
+  {
+   "slug": "s-04-create-task",
+   "name": "04 Create task",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 65,
+   "links": 2
+  },
+  {
+   "slug": "s-05-calendar-view",
+   "name": "05 Calendar View",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 62,
+   "links": 2
+  },
+  {
+   "slug": "s-06-summary-report",
+   "name": "06 Summary Report",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 125,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "nunito"
+ ]
+}
